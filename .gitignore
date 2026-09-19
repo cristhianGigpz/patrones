@@ -2,3 +2,4 @@
 venv/
 Arquitectonicos/LayeredArchitecture/app2/.venv/
 Arquitectonicos/HexagonalArchitecture/products_api/.venv
+Arquitectonicos/CleanArchitecture/products_api/.venv
