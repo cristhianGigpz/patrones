@@ -3,3 +3,6 @@ venv/
 Arquitectonicos/LayeredArchitecture/app2/.venv/
 Arquitectonicos/HexagonalArchitecture/products_api/.venv
 Arquitectonicos/CleanArchitecture/products_api/.venv
+Arquitectonicos\MicroservicesArchitecture\.venv
+Arquitectonicos\MicroservicesArchitecture\shop\order_service\.venv
+Arquitectonicos\MicroservicesArchitecture\shop\product_service\.venv
